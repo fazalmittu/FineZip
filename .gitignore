@@ -1,0 +1,7 @@
+.env
+**.gpz
+**.txt
+/finetuned_models
+/datasets
+/checkpoints
+/layer_experiments/pruned_models
