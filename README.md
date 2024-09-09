@@ -1,4 +1,4 @@
-# FineZip: README
+# FineZip
 
 ## Overview
 **FineZip** is a novel approach to lossless text compression using Large Language Models (LLMs). Building on previous work like LLMZip, FineZip pushes the boundaries of text compression by integrating both **online memorization** and **dynamic context size** techniques. These innovations lead to significant improvements in compression speed while maintaining competitive compression ratios compared to both traditional methods (e.g., gzip, bzip2) and neural network-based methods (e.g., NNCP, LLMZip). FineZip compresses text 54 times faster than LLMZip with a minor loss in compression performance.
